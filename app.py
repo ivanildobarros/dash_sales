@@ -31,7 +31,7 @@ app.layout = html.Div(children=[
     dbc.Row([
         dbc.Col([
             dbc.Card([
-                html.H2("ASIMOV", style={
+                html.H2("NILTEC", style={
                         "font-family": "Voltaire", "font-size": "25px"}),
                 html.Hr(),
                 html.H5("Cidades:"),
